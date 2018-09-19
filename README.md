@@ -1,2 +1,2 @@
 # CodeSnippets
-xcode常用代码块
+~/Library/Developer/Xcode/UserData/CodeSnippets
